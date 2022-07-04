@@ -1,7 +1,8 @@
 # Sql-Basics
-This repository includes practice for basic sql concepts such as 
+This repository includes practice for basic sql concepts such as: 
 
 -> DDL, DML, DCL commands.  
+
 -> Cursor and Triggers.
 
 -> Subqeuries.
