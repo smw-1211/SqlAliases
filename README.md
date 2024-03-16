@@ -1,4 +1,4 @@
-# Sql-Basics
+# Sql-Aliases
 This repository includes practice for basic sql concepts such as: 
 
 -> DDL, DML, DCL commands.  
