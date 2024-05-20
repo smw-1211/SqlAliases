@@ -31,3 +31,32 @@ SELECT prod_id, COUNT(*) FROM products GROUP BY prod_id;
 SELECT prod_id, COUNT(*) FROM products GROUP BY prod_id
 HAVING COUNT(*)>2;
 
+--------------------------------------------------------------------------------
+
+##Aggregation Functions - SUM
+
+SELECT SUM(price) FROM products;
+
+## SUM() with WHERE
+SELECT SUM(price) FROM products WHERE prod_id>3;
+
+## SUM() with GROUP BY
+SELECT SUM(price) FROM products WHERE prod_id>3
+GROUP BY prod_id;
+
+## SUM() with HAVING
+SELECT prod_id, SUM(price) FROM products GROUP BY prod_id HAVING SUM(price)>=170;
+
+-----------------------------------------------------------------------------------------
+
+##Aggregation Functions - AVG
+
+SELECT AVG(price) FROM products;
+
+------------------------------------------------------------------------------------------
+
+##Aggregation Functions - MAX and MIN
+
+SELECT MAX(price) FROM products;
+
+SELECT MIN(price) FROM products;
