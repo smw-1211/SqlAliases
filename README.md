@@ -11,7 +11,9 @@ This repository includes practice for basic sql concepts such as:
 
 -> View, Groupby and Join queries
 
--> UNION.
+-> Aggregation Functions.
+
+-> UNION and SET.
 
 -> Delimeters.
 
