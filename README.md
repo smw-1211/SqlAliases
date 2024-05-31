@@ -1,4 +1,4 @@
-# Sql-Basics
+# Sql-Aliases
 This repository includes practice for basic sql concepts such as: 
 
 -> DDL, DML, DCL commands.  
@@ -10,6 +10,10 @@ This repository includes practice for basic sql concepts such as:
 -> Procedure and Functions
 
 -> View, Groupby and Join queries
+
+-> Aggregation Functions.
+
+-> UNION and SET.
 
 -> Delimeters.
 
