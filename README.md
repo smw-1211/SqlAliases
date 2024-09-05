@@ -3,6 +3,8 @@ This repository includes practice for basic sql concepts such as:
 
 -> DDL, DML, DCL commands.  
 
+-> Distinct in SQL.  
+
 -> Cursor and Triggers.
 
 -> Subqeuries.
